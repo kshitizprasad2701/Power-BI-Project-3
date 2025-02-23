@@ -1,4 +1,4 @@
-# Power-BI-Project-3
+# Power BI-Project-3
 # 📊 **E-commerce Performance Dashboard | Trendora**
 
 Welcome to the **Trendora E-commerce Performance Dashboard** project! This Power BI dashboard provides actionable insights for an e-commerce business dealing in **furniture, clothing, and electronics**.  
